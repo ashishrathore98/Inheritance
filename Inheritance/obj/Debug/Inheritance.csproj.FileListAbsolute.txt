@@ -1,0 +1,3 @@
+D:\SimpliLearn Course\Assisted Project\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+D:\SimpliLearn Course\Assisted Project\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.SuggestedBindingRedirects.cache
+D:\SimpliLearn Course\Assisted Project\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
